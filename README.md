@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>Mada Altiary</h2>
+<h3>AI & Learning Systems | Mathematical Reasoning | Interactive Explanations</h3>
 
-<!--
-**MadaAltiary/MadaAltiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Exploring Intelligent Systems for Learning.</em></p>
 
-Here are some ideas to get you started:
+<p>Topics I enjoy working around:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>✨ AI-supported learning systems and educational tools</li>
+  <li>🔍 Visual and explainable approaches to complex concepts</li>
+  <li>🧩 Designing research-driven prototypes with real-world potential</li>
+</ul>
+
